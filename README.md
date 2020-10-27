@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 # Adam Vinicius Cezar Luchini :man_technologist:
 
 [![Linkedin Badge](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/adamviniciusqa)
+[![Youtube Badge]([![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/AdamVinicius/)](https://www.youtube.com/c/AdamVinicius/))
