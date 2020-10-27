@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Adam Vinicius Cezar Luchini :man_technolist:
+# Adam Vinicius Cezar Luchini :man_technologist:
 
-[![Linkedin Badge][![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/adamviniciusqa)
+[![Linkedin Badge](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/adamviniciusqa)
